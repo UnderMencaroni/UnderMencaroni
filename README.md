@@ -7,7 +7,7 @@
 
 > 🌱 I’m currently learning VueJs, React, ASP.NET Core and Azure DevOps.
 
-> 💞️ I’m looking to collaborate on senior developer that will stimulate me.
+> 💞️ I’m looking to collaborate with senior developer that will stimulate me.
 
 > 📫 How to reach me: email. lorenzo.menca12@gmail.com, twitter. @LorenzoMencaro1
 
